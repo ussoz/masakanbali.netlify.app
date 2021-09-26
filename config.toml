@@ -1,6 +1,6 @@
-baseURL = "https://masakanbali.netlify.app"
+baseURL = "https://indoworks.my.id"
 languageCode = "en-us"
-title = "bumbubali-eta"
+title = "bumbubali"
 theme = "z"
 
 [taxonomies]
@@ -41,7 +41,7 @@ theme = "z"
 
 [author]
     name = "Clara Bernadette"
-    homepage = "https://masakanbali.netlify.app"
+    homepage = "https://indoworks.my.id"
     bio = "True Food Lover"
     image = "https://i.imgur.com/qNQv8nK.jpg"
 
